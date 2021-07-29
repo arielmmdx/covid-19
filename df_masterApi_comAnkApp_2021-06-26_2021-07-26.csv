@@ -1,0 +1,624 @@
+app,media_source,date_campaign,campaign,Cost,Clicks,Impressions,Installs
+com.ankapp,Facebook Ads,2021-06-26,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,197024.73,2884,1582832,271
+com.ankapp,Facebook Ads,2021-06-26,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,104053.7607,1719,626992,110
+com.ankapp,Facebook Ads,2021-06-26,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,94319.3985,997,415313,63
+com.ankapp,Facebook Ads,2021-06-26,p:FB_nom:RMKT OB Sin transacciones_os:Mix_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,24592.1499,393,109558,22
+com.ankapp,Landing Pages,2021-06-26,Footer Landings,0.0,14,0,5
+com.ankapp,Organic,2021-06-26,organic,0.0,0,0,277
+com.ankapp,Twitter,2021-06-26,IMS_p:TW_nom:Descargas_os:Android_ef:Acq_ev:Installs_plac:MAP_expid:_aud:Demographic10,0.0,0,0,1
+com.ankapp,Twitter,2021-06-26,IMS_p:TW_nom:Descargas_os:Android_ef:Acq_ev:Installs_plac:MAP_expid:_aud:Tech10,0.0,0,0,1
+com.ankapp,Twitter,2021-06-26,p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,34999.9999,4955,775964,14
+com.ankapp,Twitter,2021-06-26,p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,63999.9999,9227,1510278,37
+com.ankapp,Twitter,2021-06-26,p:TW_nom:Descargas Viajeros_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,26999.9999,4060,618151,15
+com.ankapp,User_invite,2021-06-26,ankbassadors,0.0,5,0,1
+com.ankapp,User_invite,2021-06-26,ankbassadors,0.0,2752,0,453
+com.ankapp,User_invite,2021-06-26,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=f8886bb8-93b3-4678-97d5-baa27624fe85,0.0,3,0,0
+com.ankapp,googleadwords_int,2021-06-26,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:Bank Account Added_tipo:AlwaysOn,67161.3165,3233,582045,179
+com.ankapp,googleadwords_int,2021-06-26,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:Purchase_tipo:Experimento_expid:15,5208.1851,586,70246,14
+com.ankapp,jampp_int,2021-06-26,RTGT - AR -Android,12503.0469,0,0,1
+com.ankapp,jampp_int,2021-06-26,UA - AR - Android,0.0,114,2,0
+com.ankapp,Facebook Ads,2021-06-27,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,171465.38,2576,1391541,303
+com.ankapp,Facebook Ads,2021-06-27,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,97013.7801,1787,615367,94
+com.ankapp,Facebook Ads,2021-06-27,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,90399.94,1097,424176,54
+com.ankapp,Facebook Ads,2021-06-27,p:FB_nom:RMKT OB Sin transacciones_os:Mix_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,23593.47,431,122553,13
+com.ankapp,Landing Pages,2021-06-27,Footer Landings,0.0,14,0,5
+com.ankapp,Organic,2021-06-27,organic,0.0,0,0,244
+com.ankapp,Twitter,2021-06-27,IMS_p:TW_nom:Descargas_os:Android_ef:Acq_ev:Installs_plac:MAP_expid:_aud:Demographic10,0.0,0,0,4
+com.ankapp,Twitter,2021-06-27,p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,34999.9998,5011,813972,14
+com.ankapp,Twitter,2021-06-27,p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,63999.9998,10041,1704600,24
+com.ankapp,Twitter,2021-06-27,p:TW_nom:Descargas Viajeros_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,26999.9999,3950,641961,14
+com.ankapp,User_,2021-06-27,None,0.0,1,0,0
+com.ankapp,User_invite,2021-06-27,ankbassadors,0.0,4,0,0
+com.ankapp,User_invite,2021-06-27,ankbassadors,0.0,1362,0,307
+com.ankapp,User_invite,2021-06-27,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=23339991-ebaa-4f2a-87f3-6e1b294ae3f7,0.0,1,0,1
+com.ankapp,User_invite,2021-06-27,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=ce6dfb10-9b4f-4515-9d1f-7eeb3a54a114,0.0,1,0,0
+com.ankapp,googleadwords_int,2021-06-27,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:Bank Account Added_tipo:AlwaysOn,60835.3243,2943,467204,167
+com.ankapp,googleadwords_int,2021-06-27,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:Purchase_tipo:Experimento_expid:15,4415.1221,580,76077,11
+com.ankapp,jampp_int,2021-06-27,RTGT - AR -Android,12402.6518,0,0,1
+com.ankapp,jampp_int,2021-06-27,UA - AR - Android,0.0,113,1,0
+com.ankapp,Facebook Ads,2021-06-28,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,164498.56,2373,1227733,312
+com.ankapp,Facebook Ads,2021-06-28,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,97425.9704,1882,588155,97
+com.ankapp,Facebook Ads,2021-06-28,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,87110.7598,963,385783,74
+com.ankapp,Facebook Ads,2021-06-28,p:FB_nom:RMKT OB Sin transacciones_os:Mix_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,24162.2701,367,100145,21
+com.ankapp,Landing Pages,2021-06-28,Footer Landings,0.0,29,0,3
+com.ankapp,Organic,2021-06-28,organic,0.0,0,0,282
+com.ankapp,Twitter,2021-06-28,IMS_p:TW_nom:Descargas_os:Android_ef:Acq_ev:Installs_plac:MAP_expid:_aud:Demographic10,0.0,0,0,5
+com.ankapp,Twitter,2021-06-28,IMS_p:TW_nom:Descargas_os:Android_ef:Acq_ev:Installs_plac:MAP_expid:_aud:Tech10,0.0,0,0,1
+com.ankapp,Twitter,2021-06-28,p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,34349.8335,4738,746259,13
+com.ankapp,Twitter,2021-06-28,p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,63043.3462,11508,1818764,29
+com.ankapp,Twitter,2021-06-28,p:TW_nom:Descargas Viajeros_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,26867.2693,3862,576711,10
+com.ankapp,User_invite,2021-06-28,ankbassadors,0.0,2,0,0
+com.ankapp,User_invite,2021-06-28,ankbassadors,0.0,4855,0,1194
+com.ankapp,User_invite,2021-06-28,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=2064bd6b-1b48-4602-a222-97934c422dc1,0.0,4,0,1
+com.ankapp,googleadwords_int,2021-06-28,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:Bank Account Added_tipo:AlwaysOn,40731.5485,1662,219783,172
+com.ankapp,googleadwords_int,2021-06-28,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,39801.3363,1557,218372,61
+com.ankapp,googleadwords_int,2021-06-28,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:Purchase_tipo:Experimento_expid:15,5589.8501,642,75322,9
+com.ankapp,jampp_int,2021-06-28,RTGT - AR -Android,0.0,0,0,2
+com.ankapp,jampp_int,2021-06-28,RTGT OC - AR -Android,11896.2216,0,0,0
+com.ankapp,jampp_int,2021-06-28,UA - AR - Android,0.0,112,22,0
+com.ankapp,Facebook Ads,2021-06-29,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,172090.73,2144,1101077,328
+com.ankapp,Facebook Ads,2021-06-29,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,102084.76,1485,484246,128
+com.ankapp,Facebook Ads,2021-06-29,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,91334.3097,825,350732,77
+com.ankapp,Facebook Ads,2021-06-29,p:FB_nom:RMKT OB Sin transacciones_os:Mix_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,25485.1808,434,106016,16
+com.ankapp,Landing Pages,2021-06-29,Footer Landings,0.0,39,0,10
+com.ankapp,Organic,2021-06-29,organic,0.0,0,0,340
+com.ankapp,Twitter,2021-06-29,IMS_p:TW_nom:Descargas_os:Android_ef:Acq_ev:Installs_plac:MAP_expid:_aud:Demographic10,0.0,0,0,1
+com.ankapp,Twitter,2021-06-29,IMS_p:TW_nom:Descargas_os:Android_ef:Acq_ev:Installs_plac:MAP_expid:_aud:Tech10,0.0,0,0,4
+com.ankapp,Twitter,2021-06-29,p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,34391.3878,4890,797832,16
+com.ankapp,Twitter,2021-06-29,p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,63013.0034,10120,1683352,35
+com.ankapp,Twitter,2021-06-29,p:TW_nom:Descargas Viajeros_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,26560.0359,3743,617190,13
+com.ankapp,User_,2021-06-29,None,0.0,1,0,0
+com.ankapp,User_invite,2021-06-29,ankbassadors,0.0,2,0,0
+com.ankapp,User_invite,2021-06-29,ankbassadors,0.0,4452,0,1114
+com.ankapp,User_invite,2021-06-29,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=946e6a48-0005-47e3-93a9-4c2aa6f3ade8,0.0,3,0,0
+com.ankapp,googleadwords_int,2021-06-29,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:Bank Account Added_tipo:AlwaysOn,17901.1655,864,114864,100
+com.ankapp,googleadwords_int,2021-06-29,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,87792.2875,2895,476445,197
+com.ankapp,googleadwords_int,2021-06-29,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:Purchase_tipo:Experimento_expid:15,5095.1753,642,75444,16
+com.ankapp,jampp_int,2021-06-29,RTGT OC - AR -Android,11093.6691,0,0,0
+com.ankapp,jampp_int,2021-06-29,UA - AR - Android,0.0,131,133,0
+com.ankapp,Facebook Ads,2021-06-30,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,172235.28,2119,1113758,316
+com.ankapp,Facebook Ads,2021-06-30,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,100693.3703,1339,468255,97
+com.ankapp,Facebook Ads,2021-06-30,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,90154.371,800,334297,63
+com.ankapp,Facebook Ads,2021-06-30,p:FB_nom:RMKT OB Sin transacciones_os:Mix_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,25349.8601,391,102746,16
+com.ankapp,Landing Pages,2021-06-30,Footer Landings,0.0,46,0,12
+com.ankapp,Organic,2021-06-30,organic,0.0,0,0,275
+com.ankapp,Twitter,2021-06-30,IMS_p:TW_nom:Descargas_os:Android_ef:Acq_ev:Installs_plac:MAP_expid:_aud:Demographic10,0.0,0,0,1
+com.ankapp,Twitter,2021-06-30,p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,34506.7701,4365,719352,16
+com.ankapp,Twitter,2021-06-30,p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,61755.5058,9823,1679230,33
+com.ankapp,Twitter,2021-06-30,p:TW_nom:Descargas Viajeros_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,26479.1565,3511,600776,18
+com.ankapp,User_invite,2021-06-30,ankbassadors,0.0,4,0,0
+com.ankapp,User_invite,2021-06-30,ankbassadors,0.0,3047,0,597
+com.ankapp,googleadwords_int,2021-06-30,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:Bank Account Added_tipo:AlwaysOn,21427.5399,798,137119,60
+com.ankapp,googleadwords_int,2021-06-30,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,117648.5039,3505,660795,208
+com.ankapp,googleadwords_int,2021-06-30,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:Purchase_tipo:Experimento_expid:15,6254.8491,716,82648,11
+com.ankapp,invalid_media_source_name,2021-06-30,ankbassadors,0.0,1,0,0
+com.ankapp,jampp_int,2021-06-30,RTGT - AR -Android,0.0,0,0,2
+com.ankapp,jampp_int,2021-06-30,RTGT OC - AR -Android,11962.0284,0,0,0
+com.ankapp,jampp_int,2021-06-30,UA - AR - Android,0.0,112,1,0
+com.ankapp,Facebook Ads,2021-07-01,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,169471.62,2582,1312587,318
+com.ankapp,Facebook Ads,2021-07-01,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,98294.468,1678,562120,116
+com.ankapp,Facebook Ads,2021-07-01,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,89351.3803,895,362102,57
+com.ankapp,Facebook Ads,2021-07-01,p:FB_nom:RMKT OB Sin transacciones_os:Mix_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,25255.7499,462,120334,16
+com.ankapp,Landing Pages,2021-07-01,Footer Landings,0.0,24,0,5
+com.ankapp,Organic,2021-07-01,organic,0.0,0,0,243
+com.ankapp,Twitter,2021-07-01,IMS_p:TW_nom:Descargas_os:Android_ef:Acq_ev:Installs_plac:MAP_expid:_aud:Millenials10,0.0,0,0,1
+com.ankapp,Twitter,2021-07-01,p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,0.0,0,0,10
+com.ankapp,Twitter,2021-07-01,p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,0.0,0,0,5
+com.ankapp,Twitter,2021-07-01,p:TW_nom:Descargas Viajeros_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,0.0,0,0,3
+com.ankapp,User_,2021-07-01,None,0.0,1,0,0
+com.ankapp,User_invite,2021-07-01,ankbassadors,0.0,6,0,1
+com.ankapp,User_invite,2021-07-01,ankbassadors,0.0,2582,0,384
+com.ankapp,User_invite,2021-07-01,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=80929b97-af77-4d4c-93f3-53587d61741a,0.0,8,0,0
+com.ankapp,User_invite,2021-07-01,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=b3032fb9-a541-4153-a0e3-7dc5d59abd69,0.0,1,0,0
+com.ankapp,googleadwords_int,2021-07-01,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:Bank Account Added_tipo:AlwaysOn,9212.8078,354,60950,49
+com.ankapp,googleadwords_int,2021-07-01,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,103023.8,3415,654172,246
+com.ankapp,googleadwords_int,2021-07-01,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:Purchase_tipo:Experimento_expid:15,6293.5098,764,93021,6
+com.ankapp,jampp_int,2021-07-01,RTGT OC - AR -Android,17564.0551,0,0,1
+com.ankapp,jampp_int,2021-07-01,UA - AR - Android,0.0,126,0,0
+com.ankapp,Facebook Ads,2021-07-02,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,164765.55,2334,1254603,249
+com.ankapp,Facebook Ads,2021-07-02,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,99188.5117,1684,586052,105
+com.ankapp,Facebook Ads,2021-07-02,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,87927.1695,844,356323,54
+com.ankapp,Facebook Ads,2021-07-02,p:FB_nom:RMKT OB Sin transacciones_os:Mix_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,24753.12,412,122706,19
+com.ankapp,Landing Pages,2021-07-02,Footer Landings,0.0,32,0,11
+com.ankapp,Organic,2021-07-02,organic,0.0,0,0,256
+com.ankapp,Twitter,2021-07-02,p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,0.0,0,0,3
+com.ankapp,Twitter,2021-07-02,p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,0.0,0,0,4
+com.ankapp,Twitter,2021-07-02,p:TW_nom:Descargas Viajeros_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,0.0,0,0,1
+com.ankapp,User_,2021-07-02,None,0.0,1,0,1
+com.ankapp,User_invite,2021-07-02,ankbassadors,0.0,2,0,0
+com.ankapp,User_invite,2021-07-02,ankbassadors,0.0,1599,0,264
+com.ankapp,User_invite,2021-07-02,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=80929b97-af77-4d4c-93f3-53587d61741a,0.0,4,0,1
+com.ankapp,googleadwords_int,2021-07-02,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:Bank Account Added_tipo:AlwaysOn,0.0,0,0,15
+com.ankapp,googleadwords_int,2021-07-02,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,81035.4851,3603,458516,218
+com.ankapp,googleadwords_int,2021-07-02,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:Purchase_tipo:Experimento_expid:15,6993.8804,763,91857,8
+com.ankapp,jampp_int,2021-07-02,RTGT - AR -Android,17976.5849,0,0,0
+com.ankapp,jampp_int,2021-07-02,RTGT OC - AR -Android,0.0,0,0,1
+com.ankapp,jampp_int,2021-07-02,UA - AR - Android,0.0,92,2,0
+com.ankapp,Facebook Ads,2021-07-03,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,175412.14,2371,1354084,264
+com.ankapp,Facebook Ads,2021-07-03,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,105229.8404,1836,647758,97
+com.ankapp,Facebook Ads,2021-07-03,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,93644.6797,883,374451,44
+com.ankapp,Facebook Ads,2021-07-03,p:FB_nom:RMKT OB Sin transacciones_os:Mix_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,24864.6999,417,133412,18
+com.ankapp,Landing Pages,2021-07-03,Footer Landings,0.0,18,0,5
+com.ankapp,Organic,2021-07-03,organic,0.0,0,0,226
+com.ankapp,Twitter,2021-07-03,p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,0.0,0,0,1
+com.ankapp,Twitter,2021-07-03,p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,0.0,0,0,4
+com.ankapp,Twitter,2021-07-03,p:TW_nom:Descargas Viajeros_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,0.0,0,0,1
+com.ankapp,User_,2021-07-03,None,0.0,3,0,0
+com.ankapp,User_invite,2021-07-03,ankbassadors,0.0,2,0,0
+com.ankapp,User_invite,2021-07-03,ankbasadors,0.0,1,0,0
+com.ankapp,User_invite,2021-07-03,ankbassadors,0.0,1109,0,203
+com.ankapp,googleadwords_int,2021-07-03,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:Bank Account Added_tipo:AlwaysOn,0.0,0,0,1
+com.ankapp,googleadwords_int,2021-07-03,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,63750.8386,3313,337010,266
+com.ankapp,googleadwords_int,2021-07-03,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:Purchase_tipo:Experimento_expid:15,6387.127,748,94169,10
+com.ankapp,jampp_int,2021-07-03,RTGT - AR -Android,18394.3936,0,0,0
+com.ankapp,jampp_int,2021-07-03,RTGT OC - AR -Android,0.0,0,0,1
+com.ankapp,jampp_int,2021-07-03,UA - AR - Android,0.0,104,1,0
+com.ankapp,Facebook Ads,2021-07-04,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,165310.42,2624,1413742,235
+com.ankapp,Facebook Ads,2021-07-04,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,99901.979,1855,615959,99
+com.ankapp,Facebook Ads,2021-07-04,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,90507.3907,942,396913,52
+com.ankapp,Facebook Ads,2021-07-04,p:FB_nom:RMKT OB Sin transacciones_os:Mix_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,23901.2902,397,142082,17
+com.ankapp,Landing Pages,2021-07-04,Footer Landings,0.0,8,0,3
+com.ankapp,Organic,2021-07-04,organic,0.0,0,0,198
+com.ankapp,Twitter,2021-07-04,p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,0.0,0,0,1
+com.ankapp,Twitter,2021-07-04,p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,0.0,0,0,2
+com.ankapp,User_invite,2021-07-04,ankbassadors,0.0,1,0,1
+com.ankapp,User_invite,2021-07-04,ankbassadors,0.0,856,0,139
+com.ankapp,User_invite,2021-07-04,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=13189abc-4c0c-40ef-8868-25d7514ff294,0.0,1,0,0
+com.ankapp,googleadwords_int,2021-07-04,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:Bank Account Added_tipo:AlwaysOn,0.0,0,0,2
+com.ankapp,googleadwords_int,2021-07-04,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,56776.4162,3351,306867,207
+com.ankapp,googleadwords_int,2021-07-04,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:Purchase_tipo:Experimento_expid:15,6184.5342,737,93629,14
+com.ankapp,invalid_media_source_name,2021-07-04,ankbassadors,0.0,1,0,0
+com.ankapp,jampp_int,2021-07-04,RTGT - AR -Android,18546.3196,0,0,0
+com.ankapp,jampp_int,2021-07-04,RTGT OC - AR -Android,0.0,0,0,2
+com.ankapp,jampp_int,2021-07-04,UA - AR - Android,0.0,83,1,0
+com.ankapp,Facebook Ads,2021-07-05,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,165288.33,2581,1467080,281
+com.ankapp,Facebook Ads,2021-07-05,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,96936.1804,1599,653291,101
+com.ankapp,Facebook Ads,2021-07-05,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,87158.18,845,382945,66
+com.ankapp,Facebook Ads,2021-07-05,p:FB_nom:RMKT OB Sin transacciones_os:Mix_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,24254.8,453,136370,14
+com.ankapp,Facebook Ads,2021-07-05,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,1616.49,37,4241,0
+com.ankapp,Landing Pages,2021-07-05,Footer Landings,0.0,29,0,2
+com.ankapp,Organic,2021-07-05,organic,0.0,0,0,290
+com.ankapp,Twitter,2021-07-05,IMS_p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,0.0,0,0,1
+com.ankapp,Twitter,2021-07-05,p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,0.0,0,0,1
+com.ankapp,User_invite,2021-07-05,ankbassadors,0.0,2,0,0
+com.ankapp,User_invite,2021-07-05,ankbassadors,0.0,3583,0,760
+com.ankapp,User_invite,2021-07-05,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=06041dbe-a03b-4697-9e3d-cf57c5611851,0.0,5,0,1
+com.ankapp,User_invite,2021-07-05,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=595da021-db16-4eba-8486-fa23032e80d7,0.0,15,0,3
+com.ankapp,googleadwords_int,2021-07-05,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,63184.6361,3208,308551,263
+com.ankapp,googleadwords_int,2021-07-05,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:Purchase_tipo:Experimento_expid:15,5713.437,654,81857,7
+com.ankapp,jampp_int,2021-07-05,RTGT - AR -Android,22988.8519,0,0,0
+com.ankapp,jampp_int,2021-07-05,RTGT OC - AR -Android,0.0,0,0,1
+com.ankapp,jampp_int,2021-07-05,UA - AR - Android,0.0,95,1,0
+com.ankapp,Facebook Ads,2021-07-06,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,173422.42,2505,1383683,341
+com.ankapp,Facebook Ads,2021-07-06,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,81536.4799,1233,463837,102
+com.ankapp,Facebook Ads,2021-07-06,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,17634.98,135,70075,9
+com.ankapp,Facebook Ads,2021-07-06,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,71018.0303,602,309594,66
+com.ankapp,Facebook Ads,2021-07-06,p:FB_nom:RMKT OB Sin transacciones_os:Mix_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,12841.8902,223,71287,19
+com.ankapp,Facebook Ads,2021-07-06,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,25099.07,581,68861,23
+com.ankapp,Landing Pages,2021-07-06,Footer Landings,0.0,31,0,5
+com.ankapp,Organic,2021-07-06,organic,0.0,0,0,329
+com.ankapp,Twitter,2021-07-06,IMS_p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,0.0,0,0,2
+com.ankapp,Twitter,2021-07-06,IMS_p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,0.0,0,0,1
+com.ankapp,User_,2021-07-06,None,0.0,5,0,0
+com.ankapp,User_invite,2021-07-06,ankbassadors,0.0,5,0,0
+com.ankapp,User_invite,2021-07-06,ankbassadors,0.0,4293,0,1003
+com.ankapp,User_invite,2021-07-06,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=06041dbe-a03b-4697-9e3d-cf57c5611851,0.0,1,0,1
+com.ankapp,googleadwords_int,2021-07-06,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,88445.2347,4384,506853,297
+com.ankapp,googleadwords_int,2021-07-06,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:Purchase_tipo:Experimento_expid:15,4967.3725,644,79133,5
+com.ankapp,jampp_int,2021-07-06,RTGT - AR -Android,25504.9543,0,0,0
+com.ankapp,jampp_int,2021-07-06,RTGT OC - AR -Android,0.0,0,0,1
+com.ankapp,jampp_int,2021-07-06,UA - AR - Android,0.0,108,0,0
+com.ankapp,Facebook Ads,2021-07-07,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,169091.14,2560,1381463,280
+com.ankapp,Facebook Ads,2021-07-07,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,78303.6202,1204,517901,98
+com.ankapp,Facebook Ads,2021-07-07,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,39612.1598,317,146242,47
+com.ankapp,Facebook Ads,2021-07-07,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,69378.9602,687,355418,73
+com.ankapp,Facebook Ads,2021-07-07,p:FB_nom:RMKT OB Sin transacciones_os:Mix_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,0.0,0,0,8
+com.ankapp,Facebook Ads,2021-07-07,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,25168.86,499,80843,29
+com.ankapp,Landing Pages,2021-07-07,Footer Landings,0.0,33,0,8
+com.ankapp,None,2021-07-07,None,0.0,2,0,0
+com.ankapp,Organic,2021-07-07,organic,0.0,0,0,334
+com.ankapp,User_invite,2021-07-07,ankbassadors,0.0,10,0,0
+com.ankapp,User_invite,2021-07-07,ankbassadors,0.0,2989,0,639
+com.ankapp,User_invite,2021-07-07,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=23339991-ebaa-4f2a-87f3-6e1b294ae3f7,0.0,1,0,0
+com.ankapp,googleadwords_int,2021-07-07,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,128764.253,5440,737693,372
+com.ankapp,googleadwords_int,2021-07-07,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:BAA_tipo:Experimento_expid:15,21675.3028,473,68322,0
+com.ankapp,googleadwords_int,2021-07-07,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:Purchase_tipo:Experimento_expid:15,3030.9257,408,47709,8
+com.ankapp,jampp_int,2021-07-07,RTGT - AR -Android,22560.9057,0,0,1
+com.ankapp,jampp_int,2021-07-07,UA - AR - Android,0.0,87,0,0
+com.ankapp,Facebook Ads,2021-07-08,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,166887.55,2486,1327071,260
+com.ankapp,Facebook Ads,2021-07-08,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,75754.5605,1180,463348,83
+com.ankapp,Facebook Ads,2021-07-08,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,38441.1699,341,135860,48
+com.ankapp,Facebook Ads,2021-07-08,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,65936.3097,705,335306,71
+com.ankapp,Facebook Ads,2021-07-08,p:FB_nom:RMKT OB Sin transacciones_os:Mix_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,0.0,0,0,2
+com.ankapp,Facebook Ads,2021-07-08,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,23501.8592,453,83452,18
+com.ankapp,Landing Pages,2021-07-08,Footer Landings,0.0,33,0,3
+com.ankapp,Organic,2021-07-08,organic,0.0,0,0,291
+com.ankapp,User_,2021-07-08,None,0.0,2,0,0
+com.ankapp,User_invite,2021-07-08,ankbassadors,0.0,1,0,0
+com.ankapp,User_invite,2021-07-08,ankbassadors,0.0,2716,0,440
+com.ankapp,User_invite,2021-07-08,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=06041dbe-a03b-4697-9e3d-cf57c5611851,0.0,5,0,1
+com.ankapp,googleadwords_int,2021-07-08,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,124693.9081,6312,844960,344
+com.ankapp,googleadwords_int,2021-07-08,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:BAA_tipo:Experimento_expid:15,40163.0586,705,107170,9
+com.ankapp,jampp_int,2021-07-08,RTGT - AR -Android,28401.7167,0,0,0
+com.ankapp,jampp_int,2021-07-08,UA - AR - Android,0.0,107,52,0
+com.ankapp,Facebook Ads,2021-07-09,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,167457.89,2602,1434429,263
+com.ankapp,Facebook Ads,2021-07-09,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,76698.1296,1161,441631,78
+com.ankapp,Facebook Ads,2021-07-09,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,38036.9395,315,140698,38
+com.ankapp,Facebook Ads,2021-07-09,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,65915.0906,682,316537,57
+com.ankapp,Facebook Ads,2021-07-09,p:FB_nom:RMKT OB Sin transacciones_os:Mix_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,0.0,0,0,2
+com.ankapp,Facebook Ads,2021-07-09,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,24268.7599,477,84697,21
+com.ankapp,Landing Pages,2021-07-09,Footer Landings,0.0,22,0,2
+com.ankapp,Organic,2021-07-09,organic,0.0,0,0,249
+com.ankapp,User_invite,2021-07-09,ankbassadors,0.0,2,0,0
+com.ankapp,User_invite,2021-07-09,ankbassadors,0.0,1674,0,265
+com.ankapp,User_invite,2021-07-09,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=595da021-db16-4eba-8486-fa23032e80d7,0.0,8,0,1
+com.ankapp,googleadwords_int,2021-07-09,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,105601.6443,9719,868779,298
+com.ankapp,googleadwords_int,2021-07-09,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:BAA_tipo:Experimento_expid:15,30877.5703,580,99316,3
+com.ankapp,jampp_int,2021-07-09,RTGT - AR -Android,34546.4982,0,0,1
+com.ankapp,jampp_int,2021-07-09,UA - AR - Android,0.0,98,16,0
+com.ankapp,Facebook Ads,2021-07-10,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,182542.25,2698,1560436,260
+com.ankapp,Facebook Ads,2021-07-10,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,83100.08,1151,497004,92
+com.ankapp,Facebook Ads,2021-07-10,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,41352.4,341,151743,40
+com.ankapp,Facebook Ads,2021-07-10,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,73514.15,635,309668,56
+com.ankapp,Facebook Ads,2021-07-10,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,26518.2699,394,84472,17
+com.ankapp,Landing Pages,2021-07-10,Footer Landings,0.0,11,0,2
+com.ankapp,None,2021-07-10,None,0.0,1,0,0
+com.ankapp,Organic,2021-07-10,organic,0.0,0,0,229
+com.ankapp,User_invite,2021-07-10,ankbassadors,0.0,1282,0,188
+com.ankapp,User_invite,2021-07-10,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=06041dbe-a03b-4697-9e3d-cf57c5611851,0.0,1,0,0
+com.ankapp,User_invite,2021-07-10,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=595da021-db16-4eba-8486-fa23032e80d7,0.0,2,0,1
+com.ankapp,googleadwords_int,2021-07-10,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,60697.1667,6369,532665,236
+com.ankapp,googleadwords_int,2021-07-10,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:BAA_tipo:Experimento_expid:15,30075.3203,631,107065,12
+com.ankapp,jampp_int,2021-07-10,RTGT - AR -Android,33597.9174,0,0,1
+com.ankapp,jampp_int,2021-07-10,UA - AR - Android,0.0,88,0,0
+com.ankapp,Facebook Ads,2021-07-11,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,163751.44,2969,1595624,225
+com.ankapp,Facebook Ads,2021-07-11,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,79004.3091,1189,590594,104
+com.ankapp,Facebook Ads,2021-07-11,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,38805.87,372,156956,31
+com.ankapp,Facebook Ads,2021-07-11,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,70422.48,741,340701,41
+com.ankapp,Facebook Ads,2021-07-11,p:FB_nom:RMKT OB Sin transacciones_os:Mix_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,0.0,0,0,1
+com.ankapp,Facebook Ads,2021-07-11,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,23648.15,356,90724,16
+com.ankapp,Landing Pages,2021-07-11,Footer Landings,0.0,7,0,1
+com.ankapp,Organic,2021-07-11,organic,0.0,0,0,156
+com.ankapp,User_invite,2021-07-11,ankbassadors,0.0,2,0,0
+com.ankapp,User_invite,2021-07-11,ankbassadors,0.0,1330,0,137
+com.ankapp,User_invite,2021-07-11,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=595da021-db16-4eba-8486-fa23032e80d7,0.0,42,0,4
+com.ankapp,googleadwords_int,2021-07-11,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,39783.1773,5259,405272,147
+com.ankapp,googleadwords_int,2021-07-11,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:BAA_tipo:Experimento_expid:15,20678.1114,995,127999,10
+com.ankapp,jampp_int,2021-07-11,RTGT - AR -Android,28909.3011,0,0,1
+com.ankapp,jampp_int,2021-07-11,UA - AR - Android,0.0,96,1,0
+com.ankapp,Facebook Ads,2021-07-12,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,163022.45,2937,1269681,313
+com.ankapp,Facebook Ads,2021-07-12,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,76584.8106,1080,472864,113
+com.ankapp,Facebook Ads,2021-07-12,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,38806.28,379,128918,41
+com.ankapp,Facebook Ads,2021-07-12,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,70394.5705,845,335909,77
+com.ankapp,Facebook Ads,2021-07-12,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,25646.05,442,78263,25
+com.ankapp,Landing Pages,2021-07-12,Footer Landings,0.0,43,0,2
+com.ankapp,Organic,2021-07-12,organic,0.0,0,0,325
+com.ankapp,User_,2021-07-12,None,0.0,2,0,1
+com.ankapp,User_invite,2021-07-12,ankbassadors,0.0,4,0,3
+com.ankapp,User_invite,2021-07-12,ankbassadors,0.0,4488,0,1049
+com.ankapp,User_invite,2021-07-12,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=06041dbe-a03b-4697-9e3d-cf57c5611851,0.0,1,0,0
+com.ankapp,User_invite,2021-07-12,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=595da021-db16-4eba-8486-fa23032e80d7,0.0,34,0,1
+com.ankapp,User_invite,2021-07-12,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=80929b97-af77-4d4c-93f3-53587d61741a,0.0,17,0,1
+com.ankapp,User_invite,2021-07-12,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=b6ad9484-648c-4e93-b5fc-8286ee885d5a,0.0,4,0,1
+com.ankapp,User¿invite,2021-07-12,ankbassadors,0.0,2,0,1
+com.ankapp,googleadwords_int,2021-07-12,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,43158.1278,4608,329772,184
+com.ankapp,googleadwords_int,2021-07-12,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:BAA_tipo:Experimento_expid:15,8880.0752,1096,120678,10
+com.ankapp,jampp_int,2021-07-12,RTGT - AR -Android,30506.718,0,0,1
+com.ankapp,jampp_int,2021-07-12,UA - AR - Android,0.0,74,30,0
+com.ankapp,Facebook Ads,2021-07-13,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,174384.14,2962,1305614,367
+com.ankapp,Facebook Ads,2021-07-13,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,81536.1313,1172,456376,145
+com.ankapp,Facebook Ads,2021-07-13,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,40831.27,344,117569,48
+com.ankapp,Facebook Ads,2021-07-13,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,70602.06,838,331224,92
+com.ankapp,Facebook Ads,2021-07-13,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,25484.11,451,75077,23
+com.ankapp,Landing Pages,2021-07-13,Footer Landings,0.0,47,0,9
+com.ankapp,Organic,2021-07-13,organic,0.0,0,0,352
+com.ankapp,User_invite,2021-07-13,ankbassadors,0.0,1,0,0
+com.ankapp,User_invite,2021-07-13,ankbassadors,0.0,4646,0,1026
+com.ankapp,User_invite,2021-07-13,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=595da021-db16-4eba-8486-fa23032e80d7,0.0,136,0,0
+com.ankapp,User_invite,2021-07-13,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=80929b97-af77-4d4c-93f3-53587d61741a,0.0,1,0,0
+com.ankapp,User_invite,2021-07-13,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=b6ad9484-648c-4e93-b5fc-8286ee885d5a,0.0,10,0,1
+com.ankapp,googleadwords_int,2021-07-13,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,40275.6797,4092,318719,240
+com.ankapp,googleadwords_int,2021-07-13,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:BAA_tipo:Experimento_expid:15,9634.4404,1093,121181,14
+com.ankapp,jampp_int,2021-07-13,RTGT - AR -Android,30549.9078,0,0,0
+com.ankapp,jampp_int,2021-07-13,UA - AR - Android,0.0,109,30,0
+com.ankapp,Facebook Ads,2021-07-14,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,173449.73,3145,1360506,285
+com.ankapp,Facebook Ads,2021-07-14,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,81185.9598,1075,491901,144
+com.ankapp,Facebook Ads,2021-07-14,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,40656.8594,344,127404,46
+com.ankapp,Facebook Ads,2021-07-14,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,70236.3315,734,334457,83
+com.ankapp,Facebook Ads,2021-07-14,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,25336.09,491,77908,32
+com.ankapp,Landing Pages,2021-07-14,Footer Landings,0.0,31,0,5
+com.ankapp,Organic,2021-07-14,organic,0.0,0,0,310
+com.ankapp,Twitter,2021-07-14,IMS_p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,34999.9999,1533,252247,3
+com.ankapp,Twitter,2021-07-14,IMS_p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,63999.9999,6483,1147406,9
+com.ankapp,Twitter,2021-07-14,p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,13825.454,953,182089,0
+com.ankapp,User_invite,2021-07-14,ankbassadors,0.0,2,0,1
+com.ankapp,User_invite,2021-07-14,ankbassadors,0.0,3107,0,698
+com.ankapp,User_invite,2021-07-14,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=45a4d65f-f747-4f43-af5f-53604d55f3c7,0.0,6,0,0
+com.ankapp,User_invite,2021-07-14,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=595da021-db16-4eba-8486-fa23032e80d7,0.0,12,0,0
+com.ankapp,User_invite,2021-07-14,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=67ba2e8e-b659-4f92-bd14-69c8fc6de89a,0.0,1,0,0
+com.ankapp,User_invite,2021-07-14,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=80929b97-af77-4d4c-93f3-53587d61741a,0.0,6,0,0
+com.ankapp,User_invite,2021-07-14,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=b6ad9484-648c-4e93-b5fc-8286ee885d5a,0.0,29,0,4
+com.ankapp,googleadwords_int,2021-07-14,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,46760.7378,3578,362621,191
+com.ankapp,googleadwords_int,2021-07-14,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:BAA_tipo:Experimento_expid:15,11377.3047,1155,140336,18
+com.ankapp,jampp_int,2021-07-14,RTGT - AR -Android,30702.8874,0,0,1
+com.ankapp,jampp_int,2021-07-14,UA - AR - Android,0.0,78,6,0
+com.ankapp,Facebook Ads,2021-07-15,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,168031.64,3026,1363792,257
+com.ankapp,Facebook Ads,2021-07-15,p:FB_nom:Descargas_os:iOS_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:na,0.0,0,0,1
+com.ankapp,Facebook Ads,2021-07-15,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,77761.1991,1074,492030,109
+com.ankapp,Facebook Ads,2021-07-15,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,40280.1599,324,127430,48
+com.ankapp,Facebook Ads,2021-07-15,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,69608.6323,733,336446,61
+com.ankapp,Facebook Ads,2021-07-15,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,25368.1894,449,78172,15
+com.ankapp,Landing Pages,2021-07-15,Footer Landings,0.0,26,0,5
+com.ankapp,Organic,2021-07-15,organic,0.0,0,0,346
+com.ankapp,Twitter,2021-07-15,IMS_p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,35000.0,4544,701916,18
+com.ankapp,Twitter,2021-07-15,IMS_p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,63999.9998,8373,1440694,50
+com.ankapp,User_invite,2021-07-15,ankbassadors,0.0,4,0,0
+com.ankapp,User_invite,2021-07-15,ankbassadors,0.0,2337,0,497
+com.ankapp,User_invite,2021-07-15,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=595da021-db16-4eba-8486-fa23032e80d7,0.0,11,0,0
+com.ankapp,User_invite,2021-07-15,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=80929b97-af77-4d4c-93f3-53587d61741a,0.0,2,0,0
+com.ankapp,User_invite,2021-07-15,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=b6ad9484-648c-4e93-b5fc-8286ee885d5a,0.0,11,0,2
+com.ankapp,User_invite,2021-07-15,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=c1d65003-b053-4105-9445-e046d6505ee9,0.0,1,0,0
+com.ankapp,googleadwords_int,2021-07-15,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,52507.569,3083,359846,185
+com.ankapp,googleadwords_int,2021-07-15,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:BAA_tipo:Experimento_expid:15,11919.9463,1097,139882,10
+com.ankapp,jampp_int,2021-07-15,RTGT - AR -Android,29411.4246,0,0,4
+com.ankapp,jampp_int,2021-07-15,UA - AR - Android,0.0,79,0,0
+com.ankapp,Facebook Ads,2021-07-16,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,166236.05,2908,1370702,216
+com.ankapp,Facebook Ads,2021-07-16,p:FB_nom:Descargas_os:iOS_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:na,0.0,0,0,1
+com.ankapp,Facebook Ads,2021-07-16,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,78191.8902,1044,449650,117
+com.ankapp,Facebook Ads,2021-07-16,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,38519.7294,309,124058,40
+com.ankapp,Facebook Ads,2021-07-16,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,66179.3699,679,311358,56
+com.ankapp,Facebook Ads,2021-07-16,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,23487.4401,372,73441,22
+com.ankapp,Landing Pages,2021-07-16,Footer Landings,0.0,28,0,4
+com.ankapp,Organic,2021-07-16,organic,0.0,0,0,316
+com.ankapp,Twitter,2021-07-16,IMS_p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,35000.0,4878,776580,18
+com.ankapp,Twitter,2021-07-16,IMS_p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,63999.9999,8382,1408555,34
+com.ankapp,User_invite,2021-07-16,ankbassadors,0.0,2,0,1
+com.ankapp,User_invite,2021-07-16,ankbassadors,0.0,2175,0,339
+com.ankapp,User_invite,2021-07-16,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=595da021-db16-4eba-8486-fa23032e80d7,0.0,33,0,0
+com.ankapp,User_invite,2021-07-16,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=a82cfb94-426a-4798-be5b-1d4f88c8103f,0.0,1,0,0
+com.ankapp,User_invite,2021-07-16,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=b6ad9484-648c-4e93-b5fc-8286ee885d5a,0.0,4,0,0
+com.ankapp,googleadwords_int,2021-07-16,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,50643.6055,3376,382360,197
+com.ankapp,googleadwords_int,2021-07-16,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:BAA_tipo:Experimento_expid:15,11630.456,1089,141592,10
+com.ankapp,jampp_int,2021-07-16,RTGT - AR -Android,32398.4711,0,0,0
+com.ankapp,jampp_int,2021-07-16,UA - AR - Android,0.0,85,3,0
+com.ankapp,Facebook Ads,2021-07-17,p:FB_nom:Conversions Audiencia Bancos Arg_os:na_ef:Acq_obj:Conversions_ev:Clicks_tipo:AlwaysOn_expid:na,2359.85,70,9946,3
+com.ankapp,Facebook Ads,2021-07-17,p:FB_nom:Conversions Audiencia HI_os:na_ef:Acq_obj:Conversions_ev:Clicks_tipo:AlwaysOn_expid:na,4489.99,90,11027,1
+com.ankapp,Facebook Ads,2021-07-17,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,181124.55,3163,1511085,200
+com.ankapp,Facebook Ads,2021-07-17,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,85730.3611,1064,477786,110
+com.ankapp,Facebook Ads,2021-07-17,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,42099.43,345,143542,44
+com.ankapp,Facebook Ads,2021-07-17,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,72556.4204,729,329442,70
+com.ankapp,Facebook Ads,2021-07-17,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,26029.7899,408,76405,15
+com.ankapp,Landing Pages,2021-07-17,FBads,0.0,8,0,1
+com.ankapp,Landing Pages,2021-07-17,Footer Landings,0.0,15,0,4
+com.ankapp,Landing Pages,2021-07-17,GoogleAds,0.0,50,0,6
+com.ankapp,None,2021-07-17,None,0.0,2,0,0
+com.ankapp,Organic,2021-07-17,organic,0.0,0,0,255
+com.ankapp,Social_instagram,2021-07-17,Social_Influencers,0.0,1,0,0
+com.ankapp,Twitter,2021-07-17,IMS_p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,35000.0001,5323,817855,20
+com.ankapp,Twitter,2021-07-17,IMS_p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,34999.9999,4806,722414,29
+com.ankapp,User_,2021-07-17,None,0.0,1,0,0
+com.ankapp,User_invite,2021-07-17,ankbassadors,0.0,4,0,0
+com.ankapp,User_invite,2021-07-17,ankbassadors,0.0,1419,0,203
+com.ankapp,User_invite,2021-07-17,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=80929b97-af77-4d4c-93f3-53587d61741a,0.0,3,0,1
+com.ankapp,googleadwords_int,2021-07-17,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,44652.633,3505,447712,125
+com.ankapp,googleadwords_int,2021-07-17,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:BAA_tipo:Experimento_expid:15,14638.5293,1215,157639,15
+com.ankapp,jampp_int,2021-07-17,RTGT - AR -Android,32593.5082,0,0,5
+com.ankapp,jampp_int,2021-07-17,UA - AR - Android,0.0,79,2,0
+com.ankapp,Facebook Ads,2021-07-18,p:FB_nom:Conversions Audiencia Bancos Arg_os:na_ef:Acq_obj:Conversions_ev:Clicks_tipo:AlwaysOn_expid:na,4700.73,146,29197,1
+com.ankapp,Facebook Ads,2021-07-18,p:FB_nom:Conversions Audiencia HI_os:na_ef:Acq_obj:Conversions_ev:Clicks_tipo:AlwaysOn_expid:na,9123.62,182,28308,6
+com.ankapp,Facebook Ads,2021-07-18,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,171629.17,3664,1453201,205
+com.ankapp,Facebook Ads,2021-07-18,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,80524.5501,1222,472735,111
+com.ankapp,Facebook Ads,2021-07-18,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,40319.1006,387,139320,33
+com.ankapp,Facebook Ads,2021-07-18,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,70305.2198,766,336024,72
+com.ankapp,Facebook Ads,2021-07-18,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,25224.95,371,75471,7
+com.ankapp,Landing Pages,2021-07-18,FBads,0.0,123,0,21
+com.ankapp,Landing Pages,2021-07-18,Footer Landings,0.0,21,0,5
+com.ankapp,Organic,2021-07-18,organic,0.0,0,0,194
+com.ankapp,Twitter,2021-07-18,IMS_p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,34999.9999,5050,781004,22
+com.ankapp,Twitter,2021-07-18,IMS_p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,35000.0,5084,782674,19
+com.ankapp,User_,2021-07-18,None,0.0,2,0,1
+com.ankapp,User_invite,2021-07-18,ankbassadors,0.0,1,0,0
+com.ankapp,User_invite,2021-07-18,ankbassadors,0.0,1198,0,143
+com.ankapp,User_invite,2021-07-18,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=595da021-db16-4eba-8486-fa23032e80d7,0.0,11,0,0
+com.ankapp,User_invite,2021-07-18,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=80929b97-af77-4d4c-93f3-53587d61741a,0.0,1,0,0
+com.ankapp,googleadwords_int,2021-07-18,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,41057.6359,3355,388917,117
+com.ankapp,googleadwords_int,2021-07-18,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:BAA_tipo:Experimento_expid:15,18459.1601,1307,179414,18
+com.ankapp,invalid_media_source_name,2021-07-18,ankbassadors,0.0,1,0,0
+com.ankapp,jampp_int,2021-07-18,RTGT - AR -Android,33111.9855,0,0,2
+com.ankapp,jampp_int,2021-07-18,UA - AR - Android,0.0,108,0,0
+com.ankapp,Facebook Ads,2021-07-19,p:FB_nom:Conversions Audiencia Bancos Arg_os:na_ef:Acq_obj:Conversions_ev:Clicks_tipo:AlwaysOn_expid:na,4828.67,143,32300,1
+com.ankapp,Facebook Ads,2021-07-19,p:FB_nom:Conversions Audiencia HI_os:na_ef:Acq_obj:Conversions_ev:Clicks_tipo:AlwaysOn_expid:na,9406.9072,177,29311,16
+com.ankapp,Facebook Ads,2021-07-19,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,170233.73,3433,1413999,266
+com.ankapp,Facebook Ads,2021-07-19,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,79187.0304,1129,460021,119
+com.ankapp,Facebook Ads,2021-07-19,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,40179.6199,366,137841,59
+com.ankapp,Facebook Ads,2021-07-19,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,70591.8102,804,322320,79
+com.ankapp,Facebook Ads,2021-07-19,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,24872.5398,412,69722,19
+com.ankapp,Landing Pages,2021-07-19,FBads,0.0,124,0,16
+com.ankapp,Landing Pages,2021-07-19,Footer Landings,0.0,56,0,4
+com.ankapp,Organic,2021-07-19,organic,0.0,0,0,287
+com.ankapp,Twitter,2021-07-19,IMS_p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,34999.9999,5181,794651,26
+com.ankapp,Twitter,2021-07-19,IMS_p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,35000.0,5355,809143,23
+com.ankapp,User_invite,2021-07-19,ankbassadors,0.0,1,0,0
+com.ankapp,User_invite,2021-07-19,ankbassadors,0.0,4113,0,820
+com.ankapp,User_invite,2021-07-19,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=06041dbe-a03b-4697-9e3d-cf57c5611851,0.0,3,0,0
+com.ankapp,User_invite,2021-07-19,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=44c3f90a-5c1b-4efc-a3d5-cfd47f422cf5,0.0,21,0,9
+com.ankapp,User_invite,2021-07-19,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=595da021-db16-4eba-8486-fa23032e80d7,0.0,12,0,0
+com.ankapp,User_invite,2021-07-19,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=731a6995-beee-45e1-91aa-668eae3da138,0.0,3,0,2
+com.ankapp,googleadwords_int,2021-07-19,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,39118.0032,3079,311532,170
+com.ankapp,googleadwords_int,2021-07-19,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:BAA_tipo:Experimento_expid:15,18977.8867,1313,164572,19
+com.ankapp,jampp_int,2021-07-19,RTGT - AR -Android,32473.7713,0,0,2
+com.ankapp,jampp_int,2021-07-19,UA - AR - Android,0.0,79,0,0
+com.ankapp,Facebook Ads,2021-07-20,p:FB_nom:Conversions Audiencia Bancos Arg_os:na_ef:Acq_obj:Conversions_ev:Clicks_tipo:AlwaysOn_expid:na,4881.2,128,34608,2
+com.ankapp,Facebook Ads,2021-07-20,p:FB_nom:Conversions Audiencia HI_os:na_ef:Acq_obj:Conversions_ev:Clicks_tipo:AlwaysOn_expid:na,9426.6228,180,31991,7
+com.ankapp,Facebook Ads,2021-07-20,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,119318.07,2022,911727,243
+com.ankapp,Facebook Ads,2021-07-20,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:OBR_tipo:AlwaysOn_expid:06,38060.53,1204,428720,7
+com.ankapp,Facebook Ads,2021-07-20,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,79337.441,1161,452787,124
+com.ankapp,Facebook Ads,2021-07-20,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,39220.9693,352,128790,46
+com.ankapp,Facebook Ads,2021-07-20,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,67321.9104,686,297695,79
+com.ankapp,Facebook Ads,2021-07-20,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,25083.08,278,68266,12
+com.ankapp,Landing Pages,2021-07-20,FBads,0.0,114,0,22
+com.ankapp,Landing Pages,2021-07-20,Footer Landings,0.0,31,0,4
+com.ankapp,Organic,2021-07-20,organic,0.0,0,0,347
+com.ankapp,Twitter,2021-07-20,IMS_p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,34978.7509,5962,944423,16
+com.ankapp,Twitter,2021-07-20,IMS_p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,34999.9999,5479,862566,19
+com.ankapp,User_,2021-07-20,None,0.0,2,0,0
+com.ankapp,User_invite,2021-07-20,ankbassadors,0.0,1,0,0
+com.ankapp,User_invite,2021-07-20,ankbassadors,0.0,3238,0,689
+com.ankapp,User_invite,2021-07-20,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=44c3f90a-5c1b-4efc-a3d5-cfd47f422cf5,0.0,9,0,6
+com.ankapp,User_invite,2021-07-20,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=595da021-db16-4eba-8486-fa23032e80d7,0.0,42,0,0
+com.ankapp,googleadwords_int,2021-07-20,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,34873.9064,2816,292934,153
+com.ankapp,googleadwords_int,2021-07-20,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBR_tipo:AlwaysOn,5944.1778,321,35836,0
+com.ankapp,googleadwords_int,2021-07-20,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:BAA_tipo:Experimento_expid:15,15980.3281,1244,152307,12
+com.ankapp,jampp_int,2021-07-20,RTGT - AR -Android,30214.7265,0,0,2
+com.ankapp,jampp_int,2021-07-20,UA - AR - Android,0.0,72,1,0
+com.ankapp,Facebook Ads,2021-07-21,p:FB_nom:Conversions Audiencia Bancos Arg_os:na_ef:Acq_obj:Conversions_ev:Clicks_tipo:AlwaysOn_expid:na,5080.27,160,31453,7
+com.ankapp,Facebook Ads,2021-07-21,p:FB_nom:Conversions Audiencia HI_os:na_ef:Acq_obj:Conversions_ev:Clicks_tipo:AlwaysOn_expid:na,9939.9985,179,34091,12
+com.ankapp,Facebook Ads,2021-07-21,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,0.0,0,0,42
+com.ankapp,Facebook Ads,2021-07-21,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:OBR_tipo:AlwaysOn_expid:06,169245.34,4169,1705372,222
+com.ankapp,Facebook Ads,2021-07-21,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,76387.7709,1148,428572,115
+com.ankapp,Facebook Ads,2021-07-21,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,39159.2796,338,133453,52
+com.ankapp,Facebook Ads,2021-07-21,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,67383.1209,756,304840,91
+com.ankapp,Facebook Ads,2021-07-21,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,25238.47,365,68475,21
+com.ankapp,FieldMkt,2021-07-21,Field_Promotores,0.0,7,0,0
+com.ankapp,Landing Pages,2021-07-21,FBads,0.0,115,0,19
+com.ankapp,Landing Pages,2021-07-21,Footer Landings,0.0,41,0,4
+com.ankapp,Organic,2021-07-21,organic,0.0,0,0,309
+com.ankapp,Twitter,2021-07-21,IMS_p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,35000.0,5230,822418,22
+com.ankapp,Twitter,2021-07-21,IMS_p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,34999.9999,5705,873296,31
+com.ankapp,User_invite,2021-07-21,ankbassadors,0.0,2,0,0
+com.ankapp,User_invite,2021-07-21,ankbassadors,0.0,3350,0,686
+com.ankapp,User_invite,2021-07-21,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=1e0d9119-f3fc-4aa3-a2f4-0d0ede5632b4,0.0,1,0,1
+com.ankapp,User_invite,2021-07-21,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=44c3f90a-5c1b-4efc-a3d5-cfd47f422cf5,0.0,1,0,0
+com.ankapp,User_invite,2021-07-21,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=595da021-db16-4eba-8486-fa23032e80d7,0.0,12,0,1
+com.ankapp,User_invite,2021-07-21,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=b6ad9484-648c-4e93-b5fc-8286ee885d5a,0.0,2,0,1
+com.ankapp,googleadwords_int,2021-07-21,13965855729,0.0,0,0,2
+com.ankapp,googleadwords_int,2021-07-21,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,9414.0705,836,89623,67
+com.ankapp,googleadwords_int,2021-07-21,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBR_tipo:AlwaysOn,111749.9876,5102,513661,626
+com.ankapp,googleadwords_int,2021-07-21,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:BAA_tipo:Experimento_expid:15,15400.5606,1045,145364,13
+com.ankapp,jampp_int,2021-07-21,RTGT - AR -Android,32351.7756,0,0,0
+com.ankapp,jampp_int,2021-07-21,UA - AR - Android,0.0,79,0,0
+com.ankapp,Facebook Ads,2021-07-22,p:FB_nom:Conversions Audiencia Bancos Arg_os:na_ef:Acq_obj:Conversions_ev:Clicks_tipo:AlwaysOn_expid:na,1915.94,47,10340,3
+com.ankapp,Facebook Ads,2021-07-22,p:FB_nom:Conversions Audiencia HI_os:na_ef:Acq_obj:Conversions_ev:Clicks_tipo:AlwaysOn_expid:na,3473.85,70,10428,7
+com.ankapp,Facebook Ads,2021-07-22,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,0.0,0,0,8
+com.ankapp,Facebook Ads,2021-07-22,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:OBR_tipo:AlwaysOn_expid:06,161105.9,3280,1353769,207
+com.ankapp,Facebook Ads,2021-07-22,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,78316.6296,1259,460765,136
+com.ankapp,Facebook Ads,2021-07-22,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,39485.3393,345,133032,59
+com.ankapp,Facebook Ads,2021-07-22,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,69599.0105,789,311398,87
+com.ankapp,Facebook Ads,2021-07-22,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,25001.41,377,64925,18
+com.ankapp,Landing Pages,2021-07-22,FBads,0.0,71,0,10
+com.ankapp,Landing Pages,2021-07-22,Footer Landings,0.0,19,0,2
+com.ankapp,None,2021-07-22,None,0.0,2,0,1
+com.ankapp,None,2021-07-22,ankbassadors,0.0,6,0,1
+com.ankapp,Organic,2021-07-22,organic,0.0,0,0,332
+com.ankapp,Sitio Web,2021-07-22,Sitio Web Ank,0.0,1,0,0
+com.ankapp,Social_instagram,2021-07-22,Social_Influencers,0.0,2,0,0
+com.ankapp,Twitter,2021-07-22,IMS_p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,35000.0,5403,838910,28
+com.ankapp,Twitter,2021-07-22,IMS_p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,35000.0,4829,802443,19
+com.ankapp,User_...,2021-07-22,None,0.0,1,0,0
+com.ankapp,User_invite,2021-07-22,ankbassadors,0.0,1,0,0
+com.ankapp,User_invite,2021-07-22,ankbassadors,0.0,2596,0,562
+com.ankapp,User_invite,2021-07-22,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=06041dbe-a03b-4697-9e3d-cf57c5611851,0.0,1,0,0
+com.ankapp,User_invite,2021-07-22,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=1e0d9119-f3fc-4aa3-a2f4-0d0ede5632b4,0.0,3,0,1
+com.ankapp,User_invite,2021-07-22,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=44c3f90a-5c1b-4efc-a3d5-cfd47f422cf5,0.0,2,0,0
+com.ankapp,User_invite,2021-07-22,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=595da021-db16-4eba-8486-fa23032e80d7,0.0,11,0,0
+com.ankapp,User_invite,2021-07-22,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=b5193cc1-88d3-4427-b9a3-7d60b953af6b,0.0,1,0,0
+com.ankapp,User_invite,2021-07-22,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=b6ad9484-648c-4e93-b5fc-8286ee885d5a,0.0,1,0,0
+com.ankapp,googleadwords_int,2021-07-22,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,0.0,0,0,24
+com.ankapp,googleadwords_int,2021-07-22,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBR_tipo:AlwaysOn,155129.3376,5731,651424,979
+com.ankapp,googleadwords_int,2021-07-22,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:BAA_tipo:Experimento_expid:15,13425.2803,941,126759,12
+com.ankapp,jampp_int,2021-07-22,RTGT - AR -Android,35399.5096,0,0,1
+com.ankapp,jampp_int,2021-07-22,UA - AR - Android,0.0,64,3,0
+com.ankapp,Facebook Ads,2021-07-23,p:FB_nom:Conversions Audiencia Bancos Arg_os:na_ef:Acq_obj:Conversions_ev:Clicks_tipo:AlwaysOn_expid:na,0.0,0,0,1
+com.ankapp,Facebook Ads,2021-07-23,p:FB_nom:Conversions Audiencia HI_os:na_ef:Acq_obj:Conversions_ev:Clicks_tipo:AlwaysOn_expid:na,0.0,0,0,2
+com.ankapp,Facebook Ads,2021-07-23,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,0.0,0,0,12
+com.ankapp,Facebook Ads,2021-07-23,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:OBR_tipo:AlwaysOn_expid:06,196582.17,3568,1407417,297
+com.ankapp,Facebook Ads,2021-07-23,p:FB_nom:Descargas_os:iOS_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:na,0.0,0,0,1
+com.ankapp,Facebook Ads,2021-07-23,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,83986.6202,1302,508864,149
+com.ankapp,Facebook Ads,2021-07-23,p:FB_nom:Eventos Audiencia High Intent 1 y 2_os:Android_ef:Acq_obj:Apps Manual_ev:BankAccountAdded_tipo:AlwaysOn_expid:05 - Copy,82459.69,351,223595,14
+com.ankapp,Facebook Ads,2021-07-23,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,30159.8102,265,100587,52
+com.ankapp,Facebook Ads,2021-07-23,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,73117.8996,722,323518,79
+com.ankapp,Facebook Ads,2021-07-23,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,24932.8401,348,62146,25
+com.ankapp,Landing Pages,2021-07-23,Footer Landings,0.0,18,0,5
+com.ankapp,Organic,2021-07-23,organic,0.0,0,0,292
+com.ankapp,Social_instagram,2021-07-23,Social_Influencers,0.0,29,0,1
+com.ankapp,Twitter,2021-07-23,IMS_p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,33919.9854,5121,875565,34
+com.ankapp,Twitter,2021-07-23,IMS_p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,33293.2147,4673,816774,26
+com.ankapp,User_invite,2021-07-23,ankbassadors,0.0,2,0,0
+com.ankapp,User_invite,2021-07-23,ankbassadors,0.0,2225,0,396
+com.ankapp,User_invite,2021-07-23,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=595da021-db16-4eba-8486-fa23032e80d7,0.0,55,0,0
+com.ankapp,googleadwords_int,2021-07-23,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,0.0,0,0,3
+com.ankapp,googleadwords_int,2021-07-23,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBR_tipo:AlwaysOn,103564.5539,3445,412609,679
+com.ankapp,googleadwords_int,2021-07-23,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:BAA_tipo:Experimento_expid:15,12947.6132,951,122471,12
+com.ankapp,jampp_int,2021-07-23,RTGT - AR -Android,35487.7203,1,0,0
+com.ankapp,jampp_int,2021-07-23,UA - AR - Android,0.0,78,1,0
+com.ankapp,Facebook Ads,2021-07-24,p:FB_nom:Conversions Audiencia HI_os:na_ef:Acq_obj:Conversions_ev:Clicks_tipo:AlwaysOn_expid:na,0.0,0,0,1
+com.ankapp,Facebook Ads,2021-07-24,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,0.0,0,0,2
+com.ankapp,Facebook Ads,2021-07-24,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:OBR_tipo:AlwaysOn_expid:06,198006.44,3892,1484251,278
+com.ankapp,Facebook Ads,2021-07-24,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,82258.2911,1353,534756,103
+com.ankapp,Facebook Ads,2021-07-24,p:FB_nom:Eventos Audiencia High Intent 1 y 2_os:Android_ef:Acq_obj:Apps Manual_ev:BankAccountAdded_tipo:AlwaysOn_expid:05 - Copy,80582.1583,472,260394,40
+com.ankapp,Facebook Ads,2021-07-24,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,0.0,0,0,4
+com.ankapp,Facebook Ads,2021-07-24,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,71680.981,730,323532,59
+com.ankapp,Facebook Ads,2021-07-24,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,24646.63,375,65592,12
+com.ankapp,Landing Pages,2021-07-24,FBads,0.0,0,0,1
+com.ankapp,Landing Pages,2021-07-24,Footer Landings,0.0,15,0,5
+com.ankapp,Organic,2021-07-24,organic,0.0,0,0,299
+com.ankapp,Social_instagram,2021-07-24,Social_Influencers,0.0,132,0,7
+com.ankapp,Twitter,2021-07-24,IMS_p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,34681.9502,5694,870298,24
+com.ankapp,Twitter,2021-07-24,IMS_p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,34619.7722,5603,854449,23
+com.ankapp,User_invite,2021-07-24,ankbassadors,0.0,3,0,0
+com.ankapp,User_invite,2021-07-24,ankbassadors,0.0,1956,0,248
+com.ankapp,User_invite,2021-07-24,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=80929b97-af77-4d4c-93f3-53587d61741a,0.0,3,0,0
+com.ankapp,User_invite,2021-07-24,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=d4c84235-7e5d-42e4-a8cb-8f5a3ea96f3e,0.0,1,0,0
+com.ankapp,googleadwords_int,2021-07-24,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,0.0,0,0,3
+com.ankapp,googleadwords_int,2021-07-24,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBR_tipo:AlwaysOn,127906.495,4637,538128,521
+com.ankapp,googleadwords_int,2021-07-24,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:BAA_tipo:Experimento_expid:15,17725.373,1043,137069,16
+com.ankapp,jampp_int,2021-07-24,RTGT - AR -Android,38849.2806,0,0,1
+com.ankapp,jampp_int,2021-07-24,UA - AR - Android,0.0,89,9,0
+com.ankapp,Facebook Ads,2021-07-25,p:FB_nom:Conversions Audiencia HI_os:na_ef:Acq_obj:Conversions_ev:Clicks_tipo:AlwaysOn_expid:na,0.0,0,0,1
+com.ankapp,Facebook Ads,2021-07-25,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:Installs_tipo:AlwaysOn_expid:06,0.0,0,0,3
+com.ankapp,Facebook Ads,2021-07-25,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:OBR_tipo:AlwaysOn_expid:06,211596.48,4428,1636874,240
+com.ankapp,Facebook Ads,2021-07-25,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,76141.7902,1332,522423,98
+com.ankapp,Facebook Ads,2021-07-25,p:FB_nom:Eventos Audiencia High Intent 1 y 2_os:Android_ef:Acq_obj:Apps Manual_ev:BankAccountAdded_tipo:AlwaysOn_expid:05 - Copy,70477.6806,479,276580,33
+com.ankapp,Facebook Ads,2021-07-25,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,0.0,0,0,1
+com.ankapp,Facebook Ads,2021-07-25,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,70632.1998,791,360756,70
+com.ankapp,Facebook Ads,2021-07-25,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,24088.83,406,70945,14
+com.ankapp,Landing Pages,2021-07-25,Footer Landings,0.0,18,0,9
+com.ankapp,None,2021-07-25,None,0.0,1,0,0
+com.ankapp,Organic,2021-07-25,organic,0.0,0,0,240
+com.ankapp,Social_instagram,2021-07-25,Social_Influencers,0.0,0,0,1
+com.ankapp,Twitter,2021-07-25,IMS_p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,34640.9584,6080,929531,18
+com.ankapp,Twitter,2021-07-25,IMS_p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,33995.1042,5024,815936,24
+com.ankapp,User_invite,2021-07-25,ankbassadors,0.0,1,0,1
+com.ankapp,User_invite,2021-07-25,ankbassadors,0.0,1423,0,177
+com.ankapp,User_invite,2021-07-25,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=44c3f90a-5c1b-4efc-a3d5-cfd47f422cf5,0.0,1,0,0
+com.ankapp,User_invite,2021-07-25,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=595da021-db16-4eba-8486-fa23032e80d7,0.0,77,0,0
+com.ankapp,googleadwords_int,2021-07-25,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,0.0,0,0,1
+com.ankapp,googleadwords_int,2021-07-25,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBR_tipo:AlwaysOn,126191.4997,4822,514089,855
+com.ankapp,googleadwords_int,2021-07-25,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:BAA_tipo:Experimento_expid:15,20033.5156,1177,152010,13
+com.ankapp,jampp_int,2021-07-25,RTGT - AR -Android,38835.7469,0,0,0
+com.ankapp,jampp_int,2021-07-25,UA - AR - Android,0.0,68,1,0
+com.ankapp,Facebook Ads,2021-07-26,p:FB_nom:Conversions Audiencia HI_os:na_ef:Acq_obj:Conversions_ev:Clicks_tipo:AlwaysOn_expid:na,0.0,0,0,1
+com.ankapp,Facebook Ads,2021-07-26,p:FB_nom:Descargas_os:Android_ef:Acq_obj:Apps Auto_ev:OBR_tipo:AlwaysOn_expid:06,215703.12,4084,1474493,345
+com.ankapp,Facebook Ads,2021-07-26,p:FB_nom:Eventos Audiencia Amplia_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,77256.8289,1409,539010,95
+com.ankapp,Facebook Ads,2021-07-26,p:FB_nom:Eventos Audiencia High Intent 1 y 2_os:Android_ef:Acq_obj:Apps Manual_ev:BankAccountAdded_tipo:AlwaysOn_expid:05 - Copy,69200.2701,481,281710,74
+com.ankapp,Facebook Ads,2021-07-26,p:FB_nom:Eventos Audiencia High Intent 2_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:na,0.0,0,0,5
+com.ankapp,Facebook Ads,2021-07-26,p:FB_nom:Eventos Audiencia High Intent_os:Android_ef:Acq_obj:Apps Manual_ev:OBC_tipo:AlwaysOn_expid:05,67319.1185,751,363798,112
+com.ankapp,Facebook Ads,2021-07-26,p:G_nom:RMKT_os:Android_ef:RT_obj:Conversiones_ev:Purchase_tipo:AlwaysOn_expid:na,25397.6,395,63354,13
+com.ankapp,Landing Pages,2021-07-26,Footer Landings,0.0,61,0,10
+com.ankapp,None,2021-07-26,None,0.0,5,0,0
+com.ankapp,Organic,2021-07-26,organic,0.0,0,0,391
+com.ankapp,Social_instagram,2021-07-26,Social_Influencers,0.0,0,0,1
+com.ankapp,Twitter,2021-07-26,IMS_p:TW_nom:Descargas Shoppers_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,34748.8845,5341,858462,20
+com.ankapp,Twitter,2021-07-26,IMS_p:TW_nom:Descargas Twitter_os:Android_ef:Acq_obj:App Cards_ev:Installs_tipo:AlwaysOn_expid:na,34056.6334,4788,793106,21
+com.ankapp,User_...,2021-07-26,None,0.0,1,0,1
+com.ankapp,User_invite,2021-07-26,ankbassadors,0.0,3,0,0
+com.ankapp,User_invite,2021-07-26,ankbassadors,0.0,4624,0,923
+com.ankapp,User_invite,2021-07-26,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=13189abc-4c0c-40ef-8868-25d7514ff294,0.0,1,0,1
+com.ankapp,User_invite,2021-07-26,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=324bbb76-4079-4326-99a5-45b29014265f,0.0,10,0,2
+com.ankapp,User_invite,2021-07-26,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=595da021-db16-4eba-8486-fa23032e80d7,0.0,45,0,0
+com.ankapp,User_invite,2021-07-26,ankbassadors⁡_click_lookback=7d⁡_web_dp=https://ank.app/⁡_adset=80929b97-af77-4d4c-93f3-53587d61741a,0.0,5,0,1
+com.ankapp,googleadwords_int,2021-07-26,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBC_tipo:AlwaysOn,0.0,0,0,1
+com.ankapp,googleadwords_int,2021-07-26,p:G_nom:Eventos Android 4_os:Android_ef:Acq_obj:Apps Auto_ev:OBR_tipo:AlwaysOn,126589.9944,5627,426315,1063
+com.ankapp,googleadwords_int,2021-07-26,p:G_nom:RMKT OB Incompleto_os:Android_ef:RT_obj:Apps Auto_ev:BAA_tipo:Experimento_expid:15,16105.7959,1005,138971,5
+com.ankapp,jampp_int,2021-07-26,RTGT - AR -Android,38690.1284,0,0,4
+com.ankapp,jampp_int,2021-07-26,UA - AR - Android,0.0,97,4,0
