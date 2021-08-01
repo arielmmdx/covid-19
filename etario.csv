@@ -1,0 +1,97 @@
+provincia,cantidad,etario
+Buenos Aires,1785890,18 a 59 años CON Factores de Riesgo
+CABA,307454,18 a 59 años CON Factores de Riesgo
+Catamarca,49062,18 a 59 años CON Factores de Riesgo
+Chaco,146444,18 a 59 años CON Factores de Riesgo
+Chubut,64262,18 a 59 años CON Factores de Riesgo
+Corrientes,150337,18 a 59 años CON Factores de Riesgo
+Córdoba,609920,18 a 59 años CON Factores de Riesgo
+Entre Ríos,114133,18 a 59 años CON Factores de Riesgo
+Formosa,42296,18 a 59 años CON Factores de Riesgo
+Jujuy,93509,18 a 59 años CON Factores de Riesgo
+La Pampa,64541,18 a 59 años CON Factores de Riesgo
+La Rioja,66345,18 a 59 años CON Factores de Riesgo
+Mendoza,211800,18 a 59 años CON Factores de Riesgo
+Misiones,264103,18 a 59 años CON Factores de Riesgo
+Neuquén,86108,18 a 59 años CON Factores de Riesgo
+Río Negro,67948,18 a 59 años CON Factores de Riesgo
+Salta,147837,18 a 59 años CON Factores de Riesgo
+San Juan,81012,18 a 59 años CON Factores de Riesgo
+San Luis,96034,18 a 59 años CON Factores de Riesgo
+Santa Cruz,41592,18 a 59 años CON Factores de Riesgo
+Santa Fe,457242,18 a 59 años CON Factores de Riesgo
+Santiago del Estero,113169,18 a 59 años CON Factores de Riesgo
+Tierra del Fuego,28738,18 a 59 años CON Factores de Riesgo
+Tucumán,210714,18 a 59 años CON Factores de Riesgo
+Buenos Aires,472995,40 a 49 años SIN Factores de Riesgo
+CABA,315016,40 a 49 años SIN Factores de Riesgo
+Catamarca,31772,40 a 49 años SIN Factores de Riesgo
+Chaco,36901,40 a 49 años SIN Factores de Riesgo
+Chubut,38792,40 a 49 años SIN Factores de Riesgo
+Corrientes,74335,40 a 49 años SIN Factores de Riesgo
+Córdoba,157029,40 a 49 años SIN Factores de Riesgo
+Entre Ríos,79188,40 a 49 años SIN Factores de Riesgo
+Formosa,38449,40 a 49 años SIN Factores de Riesgo
+Jujuy,48053,40 a 49 años SIN Factores de Riesgo
+La Pampa,23896,40 a 49 años SIN Factores de Riesgo
+La Rioja,19214,40 a 49 años SIN Factores de Riesgo
+Mendoza,105272,40 a 49 años SIN Factores de Riesgo
+Misiones,9889,40 a 49 años SIN Factores de Riesgo
+Neuquén,50885,40 a 49 años SIN Factores de Riesgo
+Río Negro,48618,40 a 49 años SIN Factores de Riesgo
+Salta,70537,40 a 49 años SIN Factores de Riesgo
+San Juan,46751,40 a 49 años SIN Factores de Riesgo
+San Luis,34092,40 a 49 años SIN Factores de Riesgo
+Santa Cruz,22120,40 a 49 años SIN Factores de Riesgo
+Santa Fe,226236,40 a 49 años SIN Factores de Riesgo
+Santiago del Estero,64337,40 a 49 años SIN Factores de Riesgo
+Tierra del Fuego,12198,40 a 49 años SIN Factores de Riesgo
+Tucumán,100303,40 a 49 años SIN Factores de Riesgo
+Buenos Aires,165262,50 a 59 años SIN Factores de Riesgo
+CABA,167014,50 a 59 años SIN Factores de Riesgo
+Catamarca,18042,50 a 59 años SIN Factores de Riesgo
+Chaco,20961,50 a 59 años SIN Factores de Riesgo
+Chubut,22411,50 a 59 años SIN Factores de Riesgo
+Corrientes,26181,50 a 59 años SIN Factores de Riesgo
+Córdoba,41688,50 a 59 años SIN Factores de Riesgo
+Entre Ríos,54783,50 a 59 años SIN Factores de Riesgo
+Formosa,17283,50 a 59 años SIN Factores de Riesgo
+Jujuy,27371,50 a 59 años SIN Factores de Riesgo
+La Pampa,7865,50 a 59 años SIN Factores de Riesgo
+La Rioja,9115,50 a 59 años SIN Factores de Riesgo
+Mendoza,54244,50 a 59 años SIN Factores de Riesgo
+Misiones,5629,50 a 59 años SIN Factores de Riesgo
+Neuquén,33833,50 a 59 años SIN Factores de Riesgo
+Río Negro,38115,50 a 59 años SIN Factores de Riesgo
+Salta,34828,50 a 59 años SIN Factores de Riesgo
+San Juan,26190,50 a 59 años SIN Factores de Riesgo
+San Luis,7735,50 a 59 años SIN Factores de Riesgo
+Santa Cruz,8081,50 a 59 años SIN Factores de Riesgo
+Santa Fe,114615,50 a 59 años SIN Factores de Riesgo
+Santiago del Estero,21899,50 a 59 años SIN Factores de Riesgo
+Tierra del Fuego,2564,50 a 59 años SIN Factores de Riesgo
+Tucumán,19200,50 a 59 años SIN Factores de Riesgo
+Buenos Aires,3445799,60 o más años
+CABA,966823,60 o más años
+Catamarca,80298,60 o más años
+Chaco,193149,60 o más años
+Chubut,120051,60 o más años
+Corrientes,224156,60 o más años
+Córdoba,889916,60 o más años
+Entre Ríos,321134,60 o más años
+Formosa,104186,60 o más años
+Jujuy,146544,60 o más años
+La Pampa,99143,60 o más años
+La Rioja,71691,60 o más años
+Mendoza,431657,60 o más años
+Misiones,167668,60 o más años
+Neuquén,141241,60 o más años
+Río Negro,173031,60 o más años
+Salta,226078,60 o más años
+San Juan,156505,60 o más años
+San Luis,116215,60 o más años
+Santa Cruz,58764,60 o más años
+Santa Fe,825399,60 o más años
+Santiago del Estero,184156,60 o más años
+Tierra del Fuego,29651,60 o más años
+Tucumán,334720,60 o más años
